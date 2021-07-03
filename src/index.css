@@ -75,11 +75,4 @@ li{
     height: 8vh;
     width: 8vh;
   }
-  button:hover{
-    transform: scale(1.5);
-  }
-  #Delete:hover{
-    background-color: red;
-    transform: scale(1.5);
-  }
 }
