@@ -44,9 +44,9 @@ button{
   height: 5vh;
   width: 5vh;
 }
-button:hover{
+/* button:hover{
   transform: scale(1.5);
-}
+} */
 .center-div h1{
   text-align: center;
 }
@@ -68,11 +68,11 @@ li{
     width: 90%;
     margin-left: 5%;
   }
-  input{
+  /* input{
     height: 7vh;
-  }
+  }*/
   button{
     height: 8vh;
     width: 8vh;
-  }
+  } 
 }
